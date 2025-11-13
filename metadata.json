@@ -1,21 +1,15 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Python: Introduction",
+    "slug": "python-introduction",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
     ]
 }
