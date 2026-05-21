@@ -12,6 +12,7 @@
     "prerequisites": [
     ],
     "related": [
-        "open-source-software-introduction"
+        "open-source-software-introduction",
+        "python-versions"
     ]
 }
